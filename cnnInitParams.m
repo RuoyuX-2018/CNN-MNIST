@@ -1,3 +1,5 @@
+%this sentence is added for COMS4156 HW0
+
 function [theta, meta] = cnnInitParams(cnnConfig)
 % Initialize parameters
 %                            
